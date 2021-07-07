@@ -20,7 +20,7 @@ humanYears are whole numbers only
 +9 dog years for second year
 +5 dog years for each year after that
 
-```
+```javascript
 var humanYearsCatYearsDogYears = function(years) {
     let catYears = 0;
     let dogYears = 0;
